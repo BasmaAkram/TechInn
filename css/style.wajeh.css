@@ -177,7 +177,7 @@ z-index: 10;
 /* 3.1 Home Section*/
 .Home{
   height:100vh;
-  background-image:url("https://github.com/BasmaAkram/TechInn/blob/main/images/artificial-intelligence.jpg?raw=true") ;
+  background-image:url("https://raw.githubusercontent.com/BasmaAkram/TechInn/main/images/artificial-intelligence.jpg") ;
   background-size: cover; /*css3*/
   position: relative;
 
